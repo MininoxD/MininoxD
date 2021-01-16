@@ -1,6 +1,6 @@
 ### Hola, soy Luis, también conocido como Minino👋
 
-## Soy estudiante, Developer y amante de los gatos!!
+## Soy estudiante, Developer y me encantan los gatos!!
 
 - 🚀 Estoy a un año de terminar mi carrera como Ingeniero de Sistemas y Computación
 - 🚀 En este momento estoy aprendiendo mas de la tecnologia web, con la bases que tengo de Java :) [<img align="left" alt="Visual Studio Code" width="26px" src="https://media.discordapp.net/attachments/784925532973695018/800116664091541565/java.png?width=839&height=559" />][web]
@@ -31,6 +31,8 @@
 [<img align="left" alt="HTML5" width="26px" src="https://media.discordapp.net/attachments/784925532973695018/800120524696715304/html5.png" />][web]
 [<img align="left" alt="CSS3" width="26px" src="https://media.discordapp.net/attachments/784925532973695018/800122575472689172/css3.png?width=473&height=559" />][web]
 [<img align="left" alt="Bootstrap" width="26px" src="https://media.discordapp.net/attachments/784925532973695018/800122572443615232/bootstrap.png?width=666&height=559" />][web]
+
+<br/>
 
 ### Libreria:
 
