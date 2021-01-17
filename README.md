@@ -1,9 +1,9 @@
-### Hola, soy Luis, también conocido como Minino👋
+### Hola, soy Luis, también conocido como Minino 🐱🐱
 
 ## Soy estudiante, Developer y me encantan los gatos!!
 
-- 🚀 Estoy a un año de terminar mi carrera como Ingeniero de Sistemas y Computación
-- 🚀 En este momento estoy aprendiendo mas de la tecnologia web, con la bases que tengo de Java :) [<img align="left" alt="Visual Studio Code" width="26px" src="https://media.discordapp.net/attachments/784925532973695018/800116664091541565/java.png?width=839&height=559" />][web]
+- 🚀 Soy estudiante de ultimo semestre de la carrera "Ingeniaría de Sistemas y computación"
+- [<img align="left" alt="Visual Studio Code" width="26px" src="https://media.discordapp.net/attachments/784925532973695018/800116664091541565/java.png?width=839&height=559" />][web] Mi primer lenguje de programacion fue Java.
 - 🚀 Me encanta aprender todo lo que tenga que ver con el entorno tecnologico y aun mas el desarrollo.
 - 🔥 Me gustan los retos.
 
@@ -42,5 +42,37 @@
 <br />
 
 ### Los proyectos creados en orden cronologico:
+
+#### Pagina Web Minera
+
+https://github.com/MininoxD/PaginaWebEmpresa
+
+<br />
+
+#### Pagina Web de Un Producto
+
+https://github.com/MininoxD/VitaNovaSmart
+
+#### Sistema de Ventas
+
+https://github.com/MininoxD/ventas
+
+<br />
+
+#### Aplicacion Movil
+
+https://github.com/MininoxD/Track
+
+<br />
+
+#### Componentes para React Js
+
+https://github.com/MininoxD/GezComponentes
+
+<br />
+
+#### Aplicativo Web - Para la Tramite Documentario de mi Univercidad
+
+https://undac-gt.herokuapp.com/
 
 [web]: https://hackluis.wordpress.com/
