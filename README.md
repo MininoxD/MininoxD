@@ -73,11 +73,19 @@ https://github.com/MininoxD/GezComponentes
 
 <br />
 
-#### 😺 Aplicativo Web - Para la Tramite Documentario de mi Universidad
+#### 😺 Aplicacacion Web - Para la Tramite Documentario de mi Universidad
 
 https://undac-gt.herokuapp.com/
 
 (Para probar la funcionalidad, entrar como egresado y con tu cuenta de google)
+
+<br />
+
+#### 😺 Aplicacion Web - Para la Gestion de Proyectos de Aprendizaje de Docentes
+
+gezdocentes.vercel.app
+
+(Para probar la funcionalidad deve registrase)
 
 <br />
 
