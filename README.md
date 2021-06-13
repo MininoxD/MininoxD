@@ -83,7 +83,7 @@ https://undac-gt.herokuapp.com/
 
 #### 😺 Aplicacion Web - Para la Gestion de Proyectos de Aprendizaje de Docentes
 
-gezdocentes.vercel.app
+https://gezdocentes.vercel.app/
 
 (Para probar la funcionalidad deve registrase)
 
