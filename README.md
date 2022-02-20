@@ -1,6 +1,6 @@
 ### Hola, soy Luis, también conocido como Minino 😺😺
 
-## Soy estudiante, Developer y me encantan los gatos!! 😺😺
+## Soy Ingeniero, Developer y me encantan los gatos!! 😺😺
 
 - 🚀 Soy estudiante de ultimo semestre de la carrera "Ingeniaría de Sistemas y computación"
 - [<img align="left" alt="Visual Studio Code" width="26px" src="https://media.discordapp.net/attachments/784925532973695018/800116664091541565/java.png?width=839&height=559" />][web] Mi primer lenguje de programacion fue Java.
